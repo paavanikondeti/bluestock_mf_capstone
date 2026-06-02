@@ -1,0 +1,36 @@
+DATA QUALITY SUMMARY
+
+1. Successfully loaded all provided datasets.
+
+2. Dataset Overview
+   - Fund Master: 40 records
+   - NAV History: 46,000 records
+   - AUM by Fund House: 90 records
+   - Monthly SIP Inflows: 48 records
+   - Category Inflows: 144 records
+   - Industry Folio Count: 21 records
+   - Scheme Performance: 40 records
+   - Investor Transactions: 32,778 records
+   - Portfolio Holdings: 322 records
+   - Benchmark Indices: 8,050 records
+
+3. Data Types
+   - Numeric columns correctly identified as int64 and float64.
+   - Date columns are currently stored as strings and will require datetime conversion during preprocessing.
+
+4. Fund Master Exploration
+   - 10 unique fund houses.
+   - 2 categories (Equity, Debt).
+   - 12 sub-categories.
+   - 5 risk categories.
+
+5. AMFI Validation
+   - Fund Master Codes: 40
+   - NAV History Codes: 40
+   - All AMFI codes are present in NAV History.
+   - No missing scheme codes found.
+
+6. Observations
+   - No empty datasets detected.
+   - No major structural issues observed.
+   - Data is suitable for further cleaning, analytics, and dashboard development.

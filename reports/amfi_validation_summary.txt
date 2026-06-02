@@ -1,0 +1,11 @@
+AMFI Validation Summary
+
+Fund Master Codes: 40
+NAV History Codes: 40
+
+Result:
+All AMFI codes from fund_master.csv are present in nav_history.csv.
+
+Missing Codes: None
+
+Status: Validation Passed

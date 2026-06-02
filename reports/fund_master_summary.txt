@@ -1,0 +1,28 @@
+Fund Master Summary
+
+Total Fund Houses: 10
+
+Categories:
+- Equity
+- Debt
+
+Sub Categories:
+- Large Cap
+- Small Cap
+- Gilt
+- Mid Cap
+- Short Duration
+- Value
+- Liquid
+- Index/ETF
+- Flexi Cap
+- Index
+- Large & Mid Cap
+- ELSS
+
+Risk Categories:
+- Low
+- Moderate
+- High
+- Moderately High
+- Very High
